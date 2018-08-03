@@ -4,19 +4,19 @@ title: About
 ---
 ### Under construction!
   
-**[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**  
+* **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**  
   
-**[Email](gavinmdouglas@gmail.com)**  
+* **Email**: gavinmdouglas@gmail.com
   
-**[GitHub](https://github.com/gavinmdouglas)**  
-   
-**[Twitter](https://twitter.com/gavin_m_douglas)**    
+* **GitHub**: [gavinmdouglas](https://github.com/gavinmdouglas)  
+    
+* **Twitter** [gavin_m_douglas](https://twitter.com/gavin_m_douglas)     
   
-**[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**     
+* **[Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**     
     
 I'm a PhD student in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada).
 
 <td class="left">
         <img src="{{ BASE_PATH }}/assets/pictures/personal/GavinHeadshot.jpg" alt="assets/pictures/personal/GavinHeadshot.jpg" title="GavinHeadshot" align="middle" height="700" width="600">
 </td>
-
+  
