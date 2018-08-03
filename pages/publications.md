@@ -9,7 +9,7 @@ title: Publications
 
 * McElroy MS, Navarro AJR, Mustiga G, Stack C, Gezan S, Peña G, Sarabia W, Saquicela D, Sotomayor I, Douglas GM, Migicovsky Z, Amores F, Tarqui O, Myles S, Motamayor JC. 2018. Prediction of Cacao (Theobroma cacao) Resistance to Moniliophthora spp. Diseases via Genome-Wide Association Analysis and Genomic Selection. Front. Plant Sci. 9:343.
 
-* Douglas GM*, Hansen R*, Jones C, Dunn K, Comeau AM, Bielawski JP, Tayler R, El-Omar EM, Russell RK, Hold GL, Langille MGI, Van Limbergen J. 2018. Multi-omics Differentially Classify Disease State and Treatment Outcome in Pediatric Crohn's Disease. Microbiome 6:13 (* joint first authors).
+* Douglas GM&ast, Hansen R&ast, Jones C, Dunn K, Comeau AM, Bielawski JP, Tayler R, El-Omar EM, Russell RK, Hold GL, Langille MGI, Van Limbergen J. 2018. Multi-omics Differentially Classify Disease State and Treatment Outcome in Pediatric Crohn's Disease. Microbiome 6:13 (&ast joint first authors).
 
 * McClure KA, Gardner KM, Douglas GM, Toivonen PMA, Hampson CR, Song J, Forney CF, DeLong J, Rakcan Istvan, Myles S. 2018. A Genome-Wide Association Study of Fruit Quality and Historical Scab Resistance in an Apple Collection. The Plant Genome 11:170075.
 
@@ -21,7 +21,7 @@ title: Publications
 
 * Douglas GM, Wilson MD, Moses AM. 2016. Decreased Transcription Factor Binding Levels Nearby Primate Pseudogenes Suggests Regulatory Degeneration. Mol Biol Evol 33:1478-85.
 
-* Douglas GM*, Gos G*, Steige KA*, Salcedo A, Holm K, Agren JA, Hazzouri KM, Wang W, Platts AE, Josephs EB, Williamson RJ, Neuffer B, Lascoux M, Slotte T, Wright SI. 2015. Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris. PNAS USA 112:2806-11 (* joint first authors).
+* Douglas GM&ast, Gos G&ast, Steige KA&ast, Salcedo A, Holm K, Agren JA, Hazzouri KM, Wang W, Platts AE, Josephs EB, Williamson RJ, Neuffer B, Lascoux M, Slotte T, Wright SI. 2015. Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris. PNAS USA 112:2806-11 (&ast joint first authors).
 
 * Khan T, Douglas GM, Patel P, Nguyen Ba AN, Moses AM. 2015. Polymorphism Analysis Reveals Reduced Negative Selection and Elevated Rate of Insertions and Deletions in Intrinsically Disordered Protein Regions. Genome Biol Evol 7:1815-26.
 
