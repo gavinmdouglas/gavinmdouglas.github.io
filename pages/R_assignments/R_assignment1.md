@@ -1,12 +1,12 @@
 ---
 layout: page
-title: R workshops (August 2018)
+title: R assignment #1
 ---
 
 ### Introduction
 
 In this assignment you'll be processing gene expression data from the
-Inflammatory Bowel Disease Multi'Omics Database (https://ibdmdb.org/).
+[Inflammatory Bowel Disease Multi'Omics Database](https://ibdmdb.org/).
 
 The raw data has already been processed and you'll be working with two main
 files: (1) A table of sample metadata and (2) a table of gene expression levels.
@@ -14,7 +14,7 @@ files: (1) A table of sample metadata and (2) a table of gene expression levels.
 Be sure to save your commands in an Rscript and remember that writing useful
 comments is an important part of data analysis!
 
-Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_workshops/R_ass1_answers.html).
+Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_assignments/R_ass1_answers.html).
 
 ### Download input files
 
