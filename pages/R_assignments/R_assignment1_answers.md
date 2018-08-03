@@ -11,7 +11,7 @@
 
 * Q6: 0
 
-* Q7:  
+* Q7: 
 
 <td class="left">
   <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment1/raw_sample_count_hist.pdf" alt="assets/plots/R_workshops/assignment1/raw_sample_count_hist.pdf" title="ass1_hist" align="middle">

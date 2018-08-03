@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R assignment #1
+title: R assignment 1
 ---
 
 ### Introduction
@@ -18,7 +18,7 @@ Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_assi
 
 ### Download input files
 
-Click these links to download the required [metadata table](https://www.dropbox.com/s/vumsydgpno42xj2/hmp2_metadata_rnaseq_reformat.tsv?dl=1) and the [RDS of RNA-seq read counts](https://www.dropbox.com/s/h3kstyij7ifhees/ileum_rna_counts.rds?dl=1).
+Click these links to download the required [metadata table]({{ BASE_PATH }}/assets/data/R_workshops/assignment1/hmp2_metadata_rnaseq_reformat.tsv) and the [RDS of RNA-seq read counts]({ BASE_PATH }}/assets/data/R_workshops/assignment1/ileum_rna_counts.rds).
 
 ### Read in input files
 
