@@ -12,14 +12,16 @@
 * Q6: 0
 
 * Q7:  
-[[{ BASE_PATH }}/assets/plots/R_workshops/assignment1/raw_sample_count_hist.pdf ]]  
+
+<img src="assets/plots/R_workshops/assignment1/raw_sample_count_hist.pdf" alt="assets/plots/R_workshops/assignment1/raw_sample_count_hist.pdf" title="ass1_hist" align="middle">
 
 
 * Q8: CSM5FZ1J
 
 * Q9:  
-[[{ BASE_PATH }}/assets/plots/R_workshops/assignment1/APOA1_nonIBD_scatterplot.pdf ]]
 
-* Q10: 
+<img src="assets/plots/R_workshops/assignment1/APOA1_nonIBD_scatterplot.pdf" alt="assets/plots/R_workshops/assignment1/APOA1_nonIBD_scatterplot.pdf" title="ass1_scatterplot" align="middle">
 
-[[ assets/plots/R_workshops/assignment1/DUOX2_APOA1_CD_nonIBD_boxplots.pdf ]]
+* Q10:
+
+<img src="assets/plots/R_workshops/assignment1/DUOX2_APOA1_CD_nonIBD_boxplots.pdf" alt="assets/plots/R_workshops/assignment1/DUOX2_APOA1_CD_nonIBD_boxplots.pdf" title="ass1_boxplots" align="middle">
