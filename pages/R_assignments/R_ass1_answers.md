@@ -20,5 +20,6 @@
 * Q9:  
 [[{ BASE_PATH }}/assets/plots/R_workshops/assignment1/APOA1_nonIBD_scatterplot.pdf ]]
 
-* Q10:  
-[[{ BASE_PATH }}/assets/plots/R_workshops/assignment1/DUOX2_APOA1_CD_nonIBD_boxplots.pdf ]]
+* Q10: 
+
+[[ assets/plots/R_workshops/assignment1/DUOX2_APOA1_CD_nonIBD_boxplots.pdf ]]
