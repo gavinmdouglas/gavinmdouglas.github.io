@@ -17,7 +17,7 @@ title: Home
 ### This page is currently under construction!
 
 <td class="left">
-        <img src="assets/pictures/personal/carrickfergus_guard.png" alt="assets/pictures/personal/carrickfergus_guard.png" title="carrickfergus_guard" align="middle" height="1108" width="684">
+        <img src="assets/pictures/personal/carrickfergus_guard.jpg" alt="assets/pictures/personal/carrickfergus_guard.jpg" title="carrickfergus_guard" align="middle" height="1108" width="684">
 </td>
 <br>
 This website was created with [Karl Broman's helpful tutorial and css code](https://kbroman.org/simple_site/pages/independent_site.html).
