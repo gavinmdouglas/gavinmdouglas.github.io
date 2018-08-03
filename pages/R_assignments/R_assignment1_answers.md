@@ -14,7 +14,7 @@
 * Q7: 
 
 <td class="left">
-        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment1/raw_sample_count_hist.jpg" alt="assets/plots/R_workshops/assignment1/raw_sample_count_hist.jpg" title="ass1_hist" align="middle">
+        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment1/raw_sample_count_hist.jpg" alt="assets/plots/R_workshops/assignment1/raw_sample_count_hist.jpg" title="ass1_hist" align="middle" height=200 width=200>
 </td>
 
 

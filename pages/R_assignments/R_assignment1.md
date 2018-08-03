@@ -18,7 +18,7 @@ Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_assi
 
 ### Download input files
 
-Click these links to download the required [metadata table]({{ BASE_PATH }}/assets/data/R_workshops/assignment1/hmp2_metadata_rnaseq_reformat.tsv) and the [RDS of RNA-seq read counts]({ BASE_PATH }}/assets/data/R_workshops/assignment1/ileum_rna_counts.rds).
+Click these links to download the required [metadata table]({{ BASE_PATH }}/assets/data/R_workshops/assignment1/hmp2_metadata_rnaseq_reformat.tsv) and the [RDS of RNA-seq read counts]({{ BASE_PATH }}/assets/data/R_workshops/assignment1/ileum_rna_counts.rds).
 
 ### Read in input files
 
