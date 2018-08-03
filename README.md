@@ -1,2 +1,2 @@
-This respository holds the code and assets for the website at [gavindouglas.ca](gavindouglas.ca)
+This respository holds the code and assets for the website at www.gavindouglas.ca](http://www.gavindouglas.ca/)
 
