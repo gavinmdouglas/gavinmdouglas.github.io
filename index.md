@@ -14,7 +14,7 @@ title: Home
   </div>
 </div>
 
-### This page is currently under construction!
+### This website is currently in the early stages of construction!
 
 <td class="left">
         <img src="assets/pictures/personal/carrickfergus_guard.jpg" alt="assets/pictures/personal/carrickfergus_guard.jpg" title="carrickfergus_guard" align="middle" height="1108" width="684">
