@@ -9,7 +9,7 @@ title: Home
           <li><a href="{{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf">CV</a></li>
           <li><a href="https://github.com/gavinmdouglas">Github</a></li>
           <li><a href="https://twitter.com/gavin_m_douglas">Twitter</a></li>
-          <li><a href="pages/workshops.md">Workshops</a></li>
+          <li><a href="{{ BASE_PATH }}/pages/workshops.html">Workshops</a></li>
       </ul>
   </div>
 </div>
