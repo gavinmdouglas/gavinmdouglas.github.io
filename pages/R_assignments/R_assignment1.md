@@ -26,7 +26,11 @@ The RDS file is a special R file that can be read in directly as an object with
 the ```readRDS``` function.
 
 ```hmp2_metadata_rnaseq_reformat.tsv``` is a tab-delimited table and can be read
-in with the ```read.table``` command.
+in with the ```read.table``` command like this:
+
+```
+read.table("hmp2_metadata_rnaseq_reformat.tsv", header=TRUE, sep="\t", stringsAsFactors=FALSE)
+```
 
 **Q1**: Take a look at the metadata table in R. What is the range of consent ages across all samples?
 
