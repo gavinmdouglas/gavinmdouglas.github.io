@@ -1,3 +1,7 @@
+---
+ title: Lecture 1 examples
+---
+
 ### Problem 1
 
 Write the test\_df2 table to a file named “write\_test.txt” with the `write.table` function.
