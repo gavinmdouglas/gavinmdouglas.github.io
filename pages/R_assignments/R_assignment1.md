@@ -57,7 +57,7 @@ The table of gene expression levels is very large and so ```summary``` and ```st
 
 We need to subset the gene expression table to only those samples found in the metadata table. The sample names are the row names of the gene expression table (which you can see with ```rownames```).
 
-**Q5**: Which column of the metadata table does this correspond to?
+**Q5**: Which column of the metadata table does this correspond to? Hint: you can see the first few lines of a table with ```head```.
 
 You can check for which elements of one vectors is present in another vector with ```which``` and ```%in%```. For example:
 
@@ -70,7 +70,9 @@ which(tmp %in% tmp2)
 
 The above means that the elements with indices 3-5 in ```tmp``` were found in ```tmp2```.
 
-**Q6**: How many samples in the gene expression table are not found in the metadata table?
+**Q6**: How many samples in the gene expression table are **not** found in the metadata table?
+
+Subset the gene expression table to only those samples that overlap with the subsetted metadata table.  
 
 The gene expression table is currently raw read counts. You can get the total read counts per sample with ```rowSums```.
 

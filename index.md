@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-### This website is currently in the early stages of construction!
+### This website is under construction!
 
 <td align="center">>
         <img src="assets/pictures/personal/carrickfergus_guard.jpg" alt="assets/pictures/personal/carrickfergus_guard.jpg" title="carrickfergus_guard" align="middle" height="831" width="513">
