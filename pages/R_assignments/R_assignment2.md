@@ -83,7 +83,7 @@ end.time - start.time
 
 Ok you're all set to go hunting for new primes. Just be aware that finding a prime number bigger than M77232917 could take decades of CPU time. Good luck!
 
-## Recursive functions
+## Keeping track of rabbits
 
 The Fibonacci sequence is defined as the series of numbers (after 1) made up of summing the previous two numbers. So the start of the sequence is: 1, 1, 2, 3, 5, 8, 13, ...
 
