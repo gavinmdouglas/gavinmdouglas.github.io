@@ -3,13 +3,13 @@ layout: page
 title: R Assignment 2
 ---
 
-# Introduction
+### Introduction
 
 In this assignment you'll be building basic control structures, which are the key building blocks you'll need to write programs. There are two different sections (one on prime numbers and one on the Fibonnaci's rabbits problem), which will gradually become more complex as you add more to your control structures.
 
 Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_workshops/R_assignment2_answers.html). Checking that you're getting the correct answers will make sure that your R code is working.
 
-## Identifying prime numbers
+### Identifying prime numbers
 
 Prime numbers are whole numbers > 1 defined as only having factors of 1 and themselves. As of Jan 4th 2018 the largest known prime number is "M77232917", which is 23,249,425 digits. For the first problem of this assignment you'll need to determine the next biggest prime number after "M77232917". Well that *might* be overly ambitious, but for now let's imagine that was our goal! We'll need to figure out two things before we get started: (1) how to identify prime numbers programmatically and (2) reassure ourselves that our approach is working correctly.
 
@@ -83,7 +83,7 @@ end.time - start.time
 
 Ok you're all set to go hunting for new primes. Just be aware that finding a prime number bigger than M77232917 could take decades of CPU time. Good luck!
 
-## Keeping track of rabbits
+### Keeping track of rabbits
 
 The Fibonacci sequence is defined as the series of numbers (after 1) made up of summing the previous two numbers. So the start of the sequence is: 1, 1, 2, 3, 5, 8, 13, ...
 
