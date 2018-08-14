@@ -7,7 +7,7 @@ title: R Assignment 2
 
 In this assignment you'll be building basic control structures, which are the key building blocks you'll need to write programs. There are two different sections (one on prime numbers and one on the Fibonnaci's rabbits problem), which will gradually become more complex as you add more to your control structures.
 
-Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_workshops/R_ass2_answers.html). Checking that you're getting the correct answers will make sure that your R code is working.
+Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_workshops/R_assignment2_answers.html). Checking that you're getting the correct answers will make sure that your R code is working.
 
 ## Identifying prime numbers
 
@@ -81,6 +81,8 @@ end.time - start.time
 
 **Q4:** How many prime numbers are there smaller than 10000?
 
+Ok you're all set to go hunting for new primes. Just be aware that finding a prime number bigger than M77232917 could take decades of CPU time. Good luck!
+
 ## Recursive functions
 
 The Fibonacci sequence is defined as the series of numbers (after 1) made up of summing the previous two numbers. So the start of the sequence is: 1, 1, 2, 3, 5, 8, 13, ...
@@ -94,3 +96,4 @@ Rosalind is useful website for learning bioinformatics. There are problems on th
 Write a function that will determine the total number of rabbit pairs after a given number of months and a given litter size based on the assumptions at the above link.
 
 **Q6:** What's the total number of rabbit pairs present after 20 months given a litter size of 5?
+
