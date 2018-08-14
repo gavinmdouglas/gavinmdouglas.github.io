@@ -8,8 +8,9 @@ Below are resources that I have developed for teaching workshops.
 **(1)** Python for Biologists - Module for BIOL5705 at Dalhousie University, Nov. - Dec. 2016. [Download zipped folder of slides, quizzes, and assignments]({{ BASE_PATH }}/assets/workshops/python_for_biologists_2016.zip)
 
 **(2)** Microbiome Helper Tutorials
-* [Introduction to Random Forest in R](https://github.com/LangilleLab/microbiome_helper/wiki/Random-Forest-Tutorial)
-* [Introduction to GNU Parallel](https://github.com/LangilleLab/microbiome_helper/wiki/Quick-Introduction-to-GNU-Parallel)
+* [Introduction to Random Forest in R](https://github.com/LangilleLab/microbiome_helper/wiki/Random-Forest-Tutorial)  
+
+* [Introduction to GNU Parallel](https://github.com/LangilleLab/microbiome_helper/wiki/Quick-Introduction-to-GNU-Parallel)  
 
 **(3)** [Canadian Bioinformatics Workshop 2018: Analysis of Metagenomic Data](https://github.com/bioinformaticsdotca/Metagenomics_2018/blob/master/main_metagenomics.md) - Toronto June 5-7, 2018  
      
