@@ -55,7 +55,7 @@ multiply <- function(x, y) {
 multiply(10, 5)
 ```
 
-**Q2:** Put the code that you wrote above in a new function that accepts a number to check as the only argument. Determine if these numbers are prime: 229, 371, 4619
+**Q2:** Put the code that you wrote above in a new function that accepts a number to check as the only argument. Determine if these numbers are prime: 229, 371, and 4619
 
 An important part of programming is making your code more efficient. In this case, we know that we know that if a number doesn't have 2 as a factor then it wont have any other even number as a factor either so there's no point checking all of them.
 
@@ -91,7 +91,7 @@ This sequence is commonly brought up in biology in the context of spirals. In th
 
 **Q5:** Write R code to generate the first 20 numbers of the Fibonacci sequence.
 
-Rosalind is useful website for learning bioinformatics. There are problems on this website that can be solved using any programming language you like. These problems range from simple to sophisticated as you gradually build your skills. Take a look at this problem, which is based on the Fibonacci sequence: http://rosalind.info/problems/fib/
+Rosalind is useful website for learning bioinformatics. There are problems on this website that can be solved using any programming language you like. These problems range from simple to sophisticated as you gradually build your skills. Take a look at this problem, which is based on the Fibonacci sequence: [http://rosalind.info/problems/fib/](http://rosalind.info/problems/fib/)
 
 Write a function that will determine the total number of rabbit pairs after a given number of months and a given litter size based on the assumptions at the above link.
 
