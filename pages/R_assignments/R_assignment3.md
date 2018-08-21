@@ -3,11 +3,13 @@ layout: page
 title: R Assignment 3
 ---
 
-## Introduction
+### Introduction
 
 There are several different approaches to making plots in R. These general approaches were introduced in the lecture and this assignment will be an opportunity to try them out.
 Most of the below questions will ask you to make a certain plot given a dataset. You can see what these plots should like [here]({{ BASE_PATH }}/pages/R_assignments/R_assignment3_answers.html).
 Note that the final section also requires you to use a loop, which could be with ```lapply``` as shown in the lecture.
+
+
 
 ### Base plots
 
@@ -73,6 +75,8 @@ beeswarm(b ~ a, data=test_df)
 
 **Q4:** Make a beeswarm plot of reaction rate by state as for the boxplot above. Add this plot overtop of the boxplot by using the ```add=TRUE``` option in the beeswarm call. You will need to re-generate the boxplot first!
 
+
+
 ### Lattice plots
 
 As described in the lecture, lattice plots are especially useful for plotting data against difference facets. For instance, the lattice ```dotplot``` function can be used to plot the reaction rates we plotted above for the Puromycin dataset while splitting the plots by both concentrations and state. To do this you will need to use a formula command with different syntax then above.
@@ -92,6 +96,9 @@ The ```npk``` dataset is another default dataset that comes with R. Take a look 
 **Q5:** Plot lattice boxplots with ```bwplot``` of plant yield broken down by plant blocks.
 
 **Q6:** Finally, make dotplots of the yield  broken down by all combinations of blocks, N, and P treatments.
+
+
+
 
 ## Intro to ggplot2
 
