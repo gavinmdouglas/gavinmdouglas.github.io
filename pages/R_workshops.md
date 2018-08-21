@@ -14,4 +14,9 @@ title: R workshops (August 2018)
 * [Lecture](http://rpubs.com/gavinmdouglas/412152)
 * [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment2.html)
 
+### Workshop 3
+
+* [Lecture](http://rpubs.com/gavinmdouglas/413664)
+* [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment3.html)
+
 
