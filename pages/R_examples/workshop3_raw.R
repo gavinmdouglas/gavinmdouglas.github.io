@@ -109,3 +109,7 @@ ggplot(mean_test_in_df_melt, aes(samples, value)) +
   geom_bar(stat = "identity", aes(fill = variable), position = "dodge") +
   theme_bw()
 
+ggplot(mean_test_in_df_melt, aes(samples, variable)) +
+  geom_tile(aes(fill = value)) +
+  scale_fill_gradient(low = "blue", high = "red")
+
