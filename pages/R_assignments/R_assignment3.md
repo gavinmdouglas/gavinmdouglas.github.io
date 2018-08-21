@@ -19,7 +19,7 @@ Base plots are the simplest type of R plot. We'll explore some straight-forward 
 ?Puromycin
 ```
 
-First, we'll make basic histograms to take a look at the overall distribution of the concentration and reaction rates in this dataset. Run this command to put two panels on the same base plot (_note that you will need to set this back to the ```1,1``` afterwards_).
+First, we'll make basic histograms to take a look at the overall distribution of the concentration and reaction rates in this dataset. Run this command to put two panels on the same base plot (_note that you will need to set this back to ```1,1``` afterwards_).
 
 ```{r}
 par(mfrow=c(1,2))
