@@ -7,7 +7,7 @@ title: R Assignment 2
 
 In this assignment you'll be building basic control structures, which are the key building blocks you'll need to write programs. There are two different sections (one on prime numbers and one on the Fibonnaci's rabbits problem), which will gradually become more complex as you add more to your control structures.
 
-Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_workshops/R_assignment2_answers.html). Checking that you're getting the correct answers will make sure that your R code is working.
+Answers to the below questions are available [here]({{ BASE_PATH }}/pages/R_assignments/R_assignment2_answers.html). Checking that you're getting the correct answers will make sure that your R code is working.
 
 ### Identifying prime numbers
 

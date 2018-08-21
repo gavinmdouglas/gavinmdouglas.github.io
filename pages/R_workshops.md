@@ -18,5 +18,5 @@ title: R workshops (August 2018)
 
 * [Lecture](http://rpubs.com/gavinmdouglas/413664)
 * [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment3.html)
-
+* [Raw code - in-class examples]({{ BASE_PATH }}/pages/R_examples/workshop3_raw.R)
 
