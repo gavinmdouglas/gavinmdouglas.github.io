@@ -1,7 +1,7 @@
 ## Introduction
 
 There are several different approaches to making plots in R. These general approaches were introduced in the lecture and this assignment will be an opportunity to try them out.
-Most of the below questions will ask you to make a certain plot given a dataset. You can see what these plots should like [here]({{ BASE_PATH }}/pages/R_workshops/R_assignment3_answers.html).
+Most of the below questions will ask you to make a certain plot given a dataset. You can see what these plots should like [here]({{ BASE_PATH }}/pages/R_assignments/R_assignment3_answers.html).
 Note that the final section also requires you to use a loop, which could be with ```lapply``` as shown in the lecture.
 
 ### Base plots
@@ -48,7 +48,9 @@ This example code would make this basic beeswarm plot:
 beeswarm(rnorm(50))
 ```
 
-[{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/beeswarm_example.png ]]
+<td class="left">
+        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/beeswarm_example.png" alt="assets/plots/R_workshops/assignment3/beeswarm_example.png" title="beeswarm_ex1" align="middle">
+</td>
 
 In practice, you usually need to specify how to plot a beeswarm figure as a _formula_. You also could have made the above boxplot using this approach. The most basic usage is to specify that one column of a dataframe should be plotted against a different column.
 
@@ -60,7 +62,9 @@ test_df
 beeswarm(b ~ a, data=test_df)
 ```
 
-[{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/beeswarm_formula_ex.png ]]
+<td class="left">
+        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/beeswarm_formula_ex.png" alt="assets/plots/R_workshops/assignment3/beeswarm_formula_ex.png" title="beeswarm_formula_ex" align="middle">
+</td>
 
 **Q4:** Make a beeswarm plot of reaction rate by state as for the boxplot above. Add this plot overtop of the boxplot by using the ```add=TRUE``` option in the beeswarm call. You will need to re-generate the boxplot first!
 
@@ -74,7 +78,9 @@ This is how you would generate the plot with ```lattice``` (note that you will n
 dotplot(~rate | state + conc, data=Puromycin)
 ```
 
-[{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/puromycin_lattice_example.png ]]
+<td class="left">
+        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/puromycin_lattice_example.png" alt="assets/plots/R_workshops/assignment3/puromycin_lattice_example.png" title="puromycin_lattice_example" align="middle">
+</td>
 
 The ```npk``` dataset is another default dataset that comes with R. Take a look at this dataset with ```?npk```. We'll make some lattice plots with this dataset to demonstrate the utility. Note that although these plots are useful for exploring the data I tend to prefer base and ggplot2 plots for publications; however, if you master the lattice options these plots can also be very flexible!
 
@@ -164,7 +170,9 @@ ggplot(mean_test_in_df_melt, aes(samples, value)) +
      theme_bw()
 ```
 
-[{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/ggplot2_barplot.png ]]
+<td class="left">
+        <img src="{{ BASE_PATH }}/assets/plots/R_workshops/assignment3/ggplot2_barplot.png" alt="assets/plots/R_workshops/assignment3/ggplot2_barplot.png" title="ggplot2_barplot" align="middle">
+</td>
 
 The ```ggplot``` term specifies which aesthetics to plot as the x and y components, the ```geom_bar``` term specifies that this should be a barchart and the fill (i.e. the filled colour) of the bars should be given by the "variable" column. ```stat``` and ```position``` are options specific to the ```geom_bar``` function and ```theme_bw()``` specifies that the background should be blank.
 
