@@ -1,3 +1,7 @@
+---
+layout: page
+title: R Assignment 3 Answers
+---
 
 1.
 <td class="left">

@@ -1,3 +1,8 @@
+---
+layout: page
+title: R Assignment 3
+---
+
 ## Introduction
 
 There are several different approaches to making plots in R. These general approaches were introduced in the lecture and this assignment will be an opportunity to try them out.
