@@ -100,10 +100,10 @@ You can get the predicted class probabilities with (assuming the test dataframe 
 
 test_predictions <- predict(cond_mod, in_test, type="response")
 
-Assume that all probabilities > 0.5 are "yes" and all probabilies <= 0.5 are "no".
+Assume that all probabilities > 0.5 are "yes" and all probabilities <= 0.5 are "no".
 
 **Q12)** What overall accuracy does your model have?
 
-**Q13)** Did you model classify more "yes" or "no" condition samples correctly?
+**Q13)** Did your model classify more "yes" or "no" condition samples correctly?
 
 **Q14)** Now that you've tried your model on the test set once can you go back and change your model to see if you can improve performance on the test set?
