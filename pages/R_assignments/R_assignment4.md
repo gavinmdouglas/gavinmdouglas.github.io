@@ -62,7 +62,7 @@ permutation test. This test will involve taking the difference of the mean
 volumes of 2 random groupings of this dataset that are the same sizes as the ones
 used above. We'll make 10000 permutations for this test.
 
-This test could be done by writing a ```for``` loop (to loop 1000 times) that
+This test could be done by writing a ```for``` loop (to loop 10000 times) that
 takes 2 random subsets of the dataset and keeps track of difference in the mean
 volumes between the 2 subsets. This will be our null distribution. Where the
 observed difference lies on this distribution will let us calculate a p-value.
@@ -74,9 +74,7 @@ observed value to the plot as a dotted red line.
 
 ### Building a binary classification model
 
-During the lecture you were introduced to linear regressions, which works great for quantitative response variables.
-
-However, often in biology we're interested in classifying samples into 2 groups.
+During the lecture you were introduced to linear regressions, which works great for quantitative response variables. However, often in biology we're interested in classifying samples into 2 groups.
 This exercise will introduce you to logistic regression, which can be used for this purpose.
 
 We'll be using a custom dataset, which you can download [here]({{ BASE_PATH }}/assets/data/R_workshops/assignment4/ass4_training_set.txt). This is the training set,
