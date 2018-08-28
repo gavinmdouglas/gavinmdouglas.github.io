@@ -22,5 +22,5 @@ title: R workshops (August 2018)
 
 ### Workshop 4
 
-* [Lecture](http://rpubs.com/gavinmdouglas/414970)
+* [Lecture](http://rpubs.com/gavinmdouglas/414977)
 * [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment4.html)
