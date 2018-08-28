@@ -60,7 +60,7 @@ Let's imagine that we were interested specifically in the difference in the mean
 To check if this difference is higher than we'd expect by chance we can write a
 permutation test. This test will involve taking the difference of the mean
 volumes of 2 random groupings of this dataset that are the same sizes as the ones
-used above. We'll make 10000 permutations for this test.
+used above. We'll make 10000 permutations for this test. **Note that we could use standard statistics to pose this question, but we'll use a permutation approach here as an example case.**
 
 This test could be done by writing a ```for``` loop (to loop 10000 times) that
 takes 2 random subsets of the dataset and keeps track of difference in the mean
@@ -96,9 +96,11 @@ You may now drop any predictors from the model if you like as described in the l
 
 To determine the model accuracy we'll compare the predicted classes in our test set to the actual conditions for each sample. You can download the test set [here]({{ BASE_PATH }}/assets/data/R_workshops/assignment4/ass4_test_set.txt), which you should read into R.
 
-You can get the predicted class probabilities with (assuming the test dataframe is in ```in_test```):
+You can get the predicted class probabilities with this command: (assuming the test dataframe is in ```in_test```):
 
+```{r}
 test_predictions <- predict(cond_mod, in_test, type="response")
+```
 
 Assume that all probabilities > 0.5 are "yes" and all probabilities <= 0.5 are "no".
 

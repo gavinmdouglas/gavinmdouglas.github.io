@@ -24,3 +24,4 @@ title: R workshops (August 2018)
 
 * [Lecture](http://rpubs.com/gavinmdouglas/414977)
 * [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment4.html)
+* [Download link for raw code]({{ BASE_PATH }}/pages/R_examples/workshop4_raw.R) from in-class examples.
