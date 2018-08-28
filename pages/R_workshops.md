@@ -20,3 +20,7 @@ title: R workshops (August 2018)
 * [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment3.html)
 * [Download link for raw code]({{ BASE_PATH }}/pages/R_examples/workshop3_raw.R) from in-class examples.
 
+### Workshop 4
+
+* [Lecture](http://rpubs.com/gavinmdouglas/414970)
+* [Assignment]({{ BASE_PATH }}/pages/R_assignments/R_assignment4.html)
