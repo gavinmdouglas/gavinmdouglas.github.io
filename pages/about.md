@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada). This site contains my professional information and resources that may be of interest to others such as workshop materials.
+I am a PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
 
 For details you can check my **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**, **[GitHub](https://github.com/gavinmdouglas)**, and/or **[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**.
 
