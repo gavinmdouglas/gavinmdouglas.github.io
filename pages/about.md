@@ -7,8 +7,8 @@ I am a PhD candidate in the department of Microbiology and Immunology at Dalhous
 
 For details you can check my **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**, **[GitHub](https://github.com/gavinmdouglas)**, and/or **[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**.
 
-<td>
-	<img src="{{ BASE_PATH }}/assets/gmail_screenshot.png" alt="{{ BASE_PATH }}/assets/gmail_screenshot.png" title="gmail">
+<td class="left">
+	<img src="{{ BASE_PATH }}/assets/gmail_screenshot.png" alt="{{ BASE_PATH }}/assets/gmail_screenshot.png" title="gmail" align="middle" height="350" width="300">
 </td>
 
 You can contact me by email at <img src="{{ BASE_PATH }}/assets/gmail_screenshot.png" alt="{{ BASE_PATH }}/assets/gmail_screenshot.png" title="gmail"> or on **[Twitter](https://twitter.com/gavin_m_douglas)**. 
