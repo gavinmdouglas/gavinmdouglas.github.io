@@ -11,7 +11,7 @@ I am a PhD candidate at Dalhousie University in [Dr Morgan Langille's research l
 
 
 <td class="left">
-        <img src="{{ BASE_PATH }}/assets/pictures/personal/carrickfergus_guard.jpg" alt="assets/pictures/personal/carrickfergus_guard.jpg" title="carrickfergus_guard" align="middle" height="550" width="300">
+        <img src="{{ BASE_PATH }}/assets/pictures/personal/newgrange.jpg" alt="assets/pictures/personal/newgrange.jpg" title="newgrange" align="middle" height="550" width="300">
 </td>
 
 <p>
