@@ -7,6 +7,10 @@ title: About
         <img src="{{ BASE_PATH }}/assets/pictures/personal/2020_04_17_headshot_lower_qual.jpg" alt="assets/pictures/personal/2020_04_17_headshot_lower_qual.jpg" title="2020_04_17_headshot_lower_qual" align="middle" height="236" width="200">
 </td>
 
+<p>
+<br />
+</p>
+
 I am a PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
 
 My research mainly focuses on how to best analyze microbiome sequencing data. I am also deeply interested in questions in evolutionary genetics and more recently the relationship between biology and law.
