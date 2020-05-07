@@ -1,4 +1,4 @@
-**This is a copy of the Linux quiz written for the Microbiome Helper wiki. It's posted here as well just as a backup.**
+**This is a copy of the Linux quiz written for the Microbiome Helper wiki (see: https://github.com/LangilleLab/microbiome_helper/wiki/Introductory-Linux-Quiz). It's posted here as well just as a backup.**
 
 
 __Author:__ Gavin Douglas  
