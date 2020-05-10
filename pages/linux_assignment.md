@@ -8,11 +8,11 @@ It's typical to pick up Bash and Linux commands by googling issues as they arise
 
 However, to grow your toolkit of commands you need to be exposed to different issues! To that end, the below problems are meant to push you to learn new introductory Bash skills, which hopefully will be a good complement to a standard Linux tutorial (such as [this one](http://korflab.ucdavis.edu/bootcamp.html)).
 
-This assignment is meant to build on a simpler quiz I wrote previously, which you can find [here](https://github.com/LangilleLab/microbiome_helper/wiki/Introductory-Linux-Quiz). Unlike in this quiz, the expected code will not be provided, but the expected results for each problem will be described so you can confirm your commands are working.
+This assignment is meant to build on a simpler quiz I wrote previously, which you can find [here](https://github.com/LangilleLab/microbiome_helper/wiki/Introductory-Linux-Quiz). Unlike in this quiz, the expected code will not be provided, but the expected results for the key problems will be described so you can confirm your commands are working.
 
 
 ### Problem 0: Acquiring data and decompressing folder
-* Download the data with the `wget` command.  
+* Download the data from [this link]({{ BASE_PATH }}/assets/data/linux_intro_assignment.tar.gz) with `wget` on the command-line.
 
 * Decompress the directory with the the `tar` command (with the options `-xvfz`).  
 
