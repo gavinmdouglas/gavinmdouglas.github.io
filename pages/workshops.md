@@ -5,9 +5,9 @@ title: Workshops
 
 Below are tutorials and resources that I have developed for teaching bioinformatics workshops.
 
-* [Linux/Bash introductory assignment - May 2020]({{ BASE_PATH }}/pages/linux_assignment.html)
+* [Linux/Bash introductory assignment]({{ BASE_PATH }}/pages/linux_assignment.html) - May 2020  
 
-* [R introductory workshops - August 2018]({{ BASE_PATH }}/pages/R_workshops.html)  
+* [R introductory workshops]({{ BASE_PATH }}/pages/R_workshops.html) - August 2018  
 
 * [Resources for: Canadian Bioinformatics Workshop 2018: Analysis of Metagenomic Data](https://github.com/bioinformaticsdotca/Metagenomics_2018/blob/master/main_metagenomics.md) - Toronto June 5-7, 2018  
      
