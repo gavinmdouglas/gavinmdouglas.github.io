@@ -36,11 +36,11 @@ This assignment is meant to build on a simpler quiz I wrote previously, which yo
 
 * Note that the table is missing column names. You can fix this by making a new file with a header. First, write out these columns separated by tabs to a new file: `sample    var1    var2    var3`. Now concatenate these files together to make a new file. The final table should look like this:
 
-      `sample    var1    var2    var3`  
-      `ID241   0       20      11`  
-      `ID1     99      42      2811`  
-      `ID54    28      58      2`   
-      `ID42    51      59      0`  
+      sample    var1    var2    var3   
+      ID241   0       20      11  
+      ID1     99      42      2811   
+      ID54    28      58      2  
+      ID42    51      59      0  
 
 
 ### Problem 3: Parsing plain-text files
@@ -70,9 +70,9 @@ This assignment is meant to build on a simpler quiz I wrote previously, which yo
 * Make a new output folder
 * Loop over every sample name in the file you created in Problem 4 with a `for` loop (note that you should exclude the first `variable` column somehow). To help, see the two hints below.
   
-      Hint 1: If you wanted to loop over and print the numbers 1 to 5 in Bash you could use this command: `for i in {1..5}; do echo $i; done`
+*Hint 1*: If you wanted to loop over and print the numbers 1 to 5 in Bash you could use this command: `for i in {1..5}; do echo $i; done`
   
-      Hint 2: To get a Bash array of all elements in a file that you could loop over you could use this syntax: `$( cat FILENAME )`
+*Hint 2*: To get a Bash array of all elements in a file that you could loop over you could use this syntax: `$( cat FILENAME )`
   
 * For every loop of the above file copy the original table to the folder as a new file called "SAMPLE_copy.tsv.gz" (where SAMPLE corresponds to each different sample name).
 
