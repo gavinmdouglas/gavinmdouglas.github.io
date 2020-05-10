@@ -1,3 +1,8 @@
+---
+layout: page
+title: Linux Intro Assignment
+---
+
 __Author:__ Gavin Douglas  
 __First created:__ 10 May 2020
 __Last updated:__ 10 May 2020 
