@@ -5,7 +5,7 @@ title: Linux Intro Assignment
 
 __Author:__ Gavin Douglas  
 __First created:__ 10 May 2020
-__Last updated:__ 10 May 2020 
+__Last updated:__ 11 May 2020 
 
 It's typical to pick up Bash and Linux commands by googling issues as they arise rather than memorizing all commands. Over time your toolkit of familiar commands will gradually grow although you may need to continue googling to figure out the syntax you need exactly.
 
