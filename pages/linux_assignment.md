@@ -11,25 +11,26 @@ It's typical to pick up Bash and Linux commands by googling issues as they arise
 
 However, to grow your toolkit of commands you need to be exposed to different issues! To that end, the below problems are meant to push you to learn new introductory Bash skills, which hopefully will be a good complement to a standard Linux tutorial (such as [this one](http://korflab.ucdavis.edu/bootcamp.html)).
 
-This assignment is meant to build on a simpler quiz I wrote previously, which you can find [here](https://github.com/LangilleLab/microbiome_helper/wiki/Introductory-Linux-Quiz). Unlike in this quiz, the expected code will not be provided, but the expected results for the key problems will be described so you can confirm your commands are working.
+This assignment is meant to build on a simpler quiz I wrote previously, which you can find [here](https://github.com/LangilleLab/microbiome_helper/wiki/Introductory-Linux-Quiz). Unlike in that quiz, the expected code will not be provided for this assignment. However, the expected results for the key problems will be described so you can confirm your commands are working.
 
 
 ### Problem 0: Acquiring data and decompressing folder
 * Download the data from [this link]({{ BASE_PATH }}/assets/data/linux_intro_assignment.tar.gz) with `wget` on the command-line.
 
-* Decompress the directory with the the `tar` command (with the options `-xvfz`).  
+* Decompress the directory with the the `tar` command (with the options `-xzf`).  
 
-* Enter this directory with `cd`.
+* Enter the directory `linux_intro_assignment` with `cd`.
 
 
 ### Problem 1: Making directories and copying files
 * Make a new directory.  
 
-* Copy all files containing `copy_me` in the filename from the folder `test_files/problem1` to your new folder.  
+* Copy all files containing `copy_me` in the filename from the folder `test_files/prob1_files` to your new folder.  
+
+* There should be 67 files copied to the new folder, which you can see with by typing `ls -1`. How would you confirm that there are 67 files there 
+with a Linux command? Hint: the command `wc -l` will tell you the number of lines in a file.
 
 * Compress this new folder that you've created and filled with files. It's more convenient to compress folders when sending files to someone else.
-
-* There should be 67 files copied to the new folder, which you can see with by typing `ls -1`. How would you confirm that there are 67 files there with a Linux command? Hint: the command `wc -l` will tell you the number of lines in a file.
 
 
 ### Problem 2: Running a pre-existing program and modifying the output
@@ -47,7 +48,7 @@ This assignment is meant to build on a simpler quiz I wrote previously, which yo
 
 
 ### Problem 3: Parsing plain-text files
-* There are ten FASTA files in `prob3_files`. Take a look at a few of these files. FASTA files contain biological sequences (protein, RNA, or DNA). Each line contains either a headerline (starting with `>` followed by the sequence name) or the actual sequence itself. In this case every second line is a sequence, but note that with actual FASTA files often the same sequences are split over numerous lines.  
+* There are ten FASTA files in `test_files/prob3_files`. Take a look at a few of these files. FASTA files contain biological sequences (protein, RNA, or DNA). Each line contains either a headerline (starting with `>` followed by the sequence name) or the actual sequence itself. In this case every second line is a sequence, but note that with actual FASTA files often the same sequences are split over numerous lines.  
 
 * What could you run to confirm that there are 30 sequences in total across all files? (Hint: check out `cat` and `grep -c`)  
 
@@ -59,7 +60,7 @@ This assignment is meant to build on a simpler quiz I wrote previously, which yo
 
 
 ### Problem 4: Parse and manipulate header of large compressed table
-* Take a look at the compressed table in `prob4_files/wide_table_ex.txt.gz`. Each column of this table is a different sample except for the first column, which breaks down what fictious variable each row corresponds to.  
+* Take a look at the compressed table in `test_files/prob4_files/wide_table_ex.txt.gz`. Each column of this table is a different sample except for the first column, which breaks down what fictious variable each row corresponds to.  
 
 *  Parse out just the first line of the table (i.e., the header-line). Note: you will need to decompress the file or use `zcat` to decompress the file to standard output.
 
@@ -70,8 +71,9 @@ This assignment is meant to build on a simpler quiz I wrote previously, which yo
 
 
 ### Problem 5: Bash for loop
-* Make a new output folder
-* Loop over every sample name in the file you created in Problem 4 with a `for` loop (note that you should exclude the first `variable` column somehow). To help, see the two hints below.
+* Make a new output folder.
+
+* Loop over every sample name in the file you created in Problem 4 with a `for` loop (note that you should exclude the first column called `variable` somehow). To help, see the two hints below.
   
 *Hint 1*: If you wanted to loop over and print the numbers 1 to 5 in Bash you could use this command: `for i in {1..5}; do echo $i; done`
   
