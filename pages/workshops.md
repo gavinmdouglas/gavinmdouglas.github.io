@@ -5,6 +5,8 @@ title: Workshops
 
 Below are tutorials and resources that I have developed for teaching bioinformatics workshops.
 
+* [R notebook example]({{ BASE_PATH }}/pages/example.html) - May 2020  
+
 * [Linux/Bash introductory assignment]({{ BASE_PATH }}/pages/linux_assignment.html) - May 2020  
   
   
