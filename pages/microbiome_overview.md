@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bash and Linux teaching materials
+title: Microbiome data analysis tutorials and workflows
 ---
 
 * [Metagenome prediction with PICRUSt2 tutorial](https://github.com/picrust/picrust2/wiki) - Check linked wiki page for latest version
