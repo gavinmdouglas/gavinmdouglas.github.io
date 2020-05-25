@@ -3,7 +3,7 @@ layout: page
 title: R programming teaching materials
 ---
 
-* [R notebook example]({{ BASE_PATH }}/pages/R_notebook/example.html) - May 2020  
+* [R notebook example]({{ BASE_PATH }}/pages/R_notebook_example.html) - May 2020  
 
 * [R introductory workshops]({{ BASE_PATH }}/pages/R_workshops.html) - August 2018  
 
