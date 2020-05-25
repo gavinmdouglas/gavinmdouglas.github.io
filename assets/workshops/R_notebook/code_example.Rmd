@@ -31,15 +31,15 @@ opts_knit$set(root.dir = '/home/gavin/testing/R_notebooks/')
 
 R notebooks are a convenient and slick way to explore your data and share analyses with collaborators. The clearest advantage is that both the results and the code used are present in the same file and can be shared as an HTML file. This R notebook is intended to highlight the main R notebook features that I find helpful.
 
-You can see the R code used at each step below, but for the purposes of this exercise **the full R markdown file will be more useful for understanding how to make a notebook like this**. This format (`.Rmd` rather than a standard `.R` script) is a markdown format that includes chunks of code (usually, but not always, in R). You can see the accompanying R markdown file [here](http://www.gavindouglas.ca/pages/r_notebook/example.Rmd).
+You can see the R code used at each step below, but for the purposes of this exercise **the full R markdown file will be more useful for understanding how to make a notebook like this**. This format (`.Rmd` rather than a standard `.R` script) is a markdown format that includes chunks of code (usually, but not always, in R). You can download the accompanying R markdown file [here](http://www.gavindouglas.ca/assets/workshops/R_notebook/code_example.Rmd).
 
 ## Highlight overview
 Note the table of content that floats on the side of the page while scrolling. Settings like this, the particular layout, and whether code should be hidden by default, are specified at the beginning of the R markdown file. Another really handy feature of R notebooks is that you can execute specific chunks of code at a time - **this makes them useful for standard data analysis, when you might be re-writing and troubleshooting code, and not merely as a way to summarize final code**.
 
-The other features that will be highlighted are:
-* Using tabs to present related data
-* Printing pretty tables
-* Using other languages besides R
+The other features that will be highlighted are:  
+* Using tabs to present related data  
+* Printing pretty tables  
+* Using other languages besides R  
 
 ## Example dataset
 
@@ -212,7 +212,7 @@ print(py$iris_means)
 Although these examples of using other languages were extremely simple, hopefully they helped you see how useful R notebooks can be for creating and sharing highly reproducible workflows.
 
 # Final thoughts
-The above quick examples are meant to show some slick features you may not be aware of in R notebooks as well as to show how useful R notebooks are in general. As mentioned at the beginning, probably what readers will find the most useful is being able to see the raw R markdown file, which you can see [here](http://www.gavindouglas.ca/pages/r_notebook/example.Rmd).
+The above quick examples are meant to show some slick features you may not be aware of in R notebooks as well as to show how useful R notebooks are in general. As mentioned at the beginning, probably what readers will find the most useful is being able to see the raw R markdown file, which you can download [here](http://www.gavindouglas.ca/assets/workshops/R_notebook/code_example.Rmd).
 
 # Session info
 The version numbers of all packages in the current environment as well as information about the R install is reported below. This is useful information to include so that others can better reproduce your work.
