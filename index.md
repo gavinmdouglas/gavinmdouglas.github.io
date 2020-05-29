@@ -17,5 +17,5 @@ I am a PhD candidate at Dalhousie University in [Dr Morgan Langille's research l
 <p>
 <br />
 </p>
-Photo taken at Newgrange in the Republic of Ireland. This website was created with [Karl Broman's helpful tutorial and css code](https://kbroman.org/simple_site/pages/independent_site.html).
+Photo is of the Newgrange passage tomb in Ireland. This website was created with [Karl Broman's helpful tutorial and css code](https://kbroman.org/simple_site/pages/independent_site.html).
 
