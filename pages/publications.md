@@ -3,7 +3,7 @@ layout: page
 title: Selected Publications
 ---
 
-Below are four of my recent publications. You can find my complete publication list at my [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ).
+Below are four of my recent publications. You can find my complete publication list on my [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ).
 
 [**Douglas GM, Bielawski JP, Langille MGI. 2020. Re-evaluating the relationship between missing heritability and the microbiome. Microbiome 8:87.**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00839-4)  
 _A commentary focused on the issue of whether microbiome data can help address the issue of 'missing heritability'. In contrast to several recent articles, we argue that it would be inappropriate to consider microbial genetic variation in the human microbiome as an extension of the human genome. We then describe several approaches by which microbiome data could be used (given further evaluation) as a proxy for environmental variation in genome-wide association studies._
