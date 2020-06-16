@@ -45,7 +45,7 @@ Create a new metadata table with the "UC" (ulcerative colitis) diagnosis removed
 Retain only 1 sample for each patient using the ```duplicated``` function. This function will return a logical vector for whether an element is a duplicate or not. For example:
 
 ```
-duplicated("a", "b", "a", "c")
+duplicated(c("a", "b", "a", "c"))
 [1] FALSE FALSE  TRUE FALSE
 ```
 
