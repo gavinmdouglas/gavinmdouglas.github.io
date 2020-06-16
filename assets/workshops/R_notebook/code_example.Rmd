@@ -33,6 +33,25 @@ R notebooks are a convenient and slick way to explore your data and share analys
 
 You can see the R code used at each step below, but for the purposes of this exercise **the full R markdown file will be more useful for understanding how to make a notebook like this**. This format (`.Rmd` rather than a standard `.R` script) is a markdown format that includes chunks of code (usually, but not always, in R). You can download the accompanying R markdown file [here](http://www.gavindouglas.ca/assets/workshops/R_notebook/code_example.Rmd).
 
+For some reason the YAML header of this R notebook may not be visible when downloaded from this link (although it is present in the original file!). The YAML header looks like this in the original file (and is directly at the top of the notebook):
+
+![](YAML_header.png)  
+  
+You can copy and paste the YAML block below (but note that the date code is executed and so will need to be re-written by hand, as shown above):
+```
+---
+title: "Example R Notebook"
+author: "Gavin Douglas"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+output:
+  html_document:
+    code_folding: hide
+    theme: cerulean
+    toc: true
+    toc_float: true
+---
+```
+
 ## Highlight overview
 Note the table of content that floats on the side of the page while scrolling. Settings like this, the particular layout, and whether code should be hidden by default, are specified at the beginning of the R markdown file. Another really handy feature of R notebooks is that you can execute specific chunks of code at a time - **this makes them useful for standard data analysis, when you might be re-writing and troubleshooting code, and not merely as a way to summarize final code**.
 
