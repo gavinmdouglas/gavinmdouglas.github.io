@@ -13,7 +13,7 @@ title: About
 
 I am a PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
 
-My research mainly focuses on how to best analyze microbiome sequencing data. I am also deeply interested in questions in evolutionary genetics and more recently the relationship between biology and law.
+My research mainly focuses on developing improved bioinformatics methods for analyzing microbiome sequencing data. Previously my research focus has also involved developing and applying bioinformatics approaches to ask agricultural and evolutionary genetics questions. I am also interested in new ways to improve scientific publishing and data analysis reproducibility.
 
 For details you can check my **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**, **[GitHub](https://github.com/gavinmdouglas)**, and/or **[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**.
 
