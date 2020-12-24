@@ -11,7 +11,7 @@ title: About
 <br />
 </p>
 
-I am a PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
+I am a recently defended PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
 
 My research mainly focuses on developing improved bioinformatics methods for analyzing microbiome sequencing data. Previously my research focus has also involved developing and applying bioinformatics approaches to ask agricultural and evolutionary genetics questions. I am also interested in new ways to improve scientific publishing and data analysis reproducibility.
 
