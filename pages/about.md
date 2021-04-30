@@ -11,9 +11,15 @@ title: About
 <br />
 </p>
 
-I am a recently defended PhD candidate in the department of Microbiology and Immunology at Dalhousie University (Halifax, Nova Scotia, Canada) in [Dr Morgan Langille's research lab](http://morganlangille.com).
+I am a postdoctoral researcher in [Dr. Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University (Montréal, Québec, Canada).
 
-My research mainly focuses on developing improved bioinformatics methods for analyzing microbiome sequencing data. Previously my research focus has also involved developing and applying bioinformatics approaches to ask agricultural and evolutionary genetics questions. I am also interested in new ways to improve scientific publishing and data analysis reproducibility.
+Until recently I was a PhD student in Microbiology and Immunology in [Dr Morgan Langille's research lab](http://morganlangille.com) at Dalhousie University (Halifax, Nova Scotia, Canada).
+
+My current research focuses on leveraging metagenomics data to investigate the evolutionary forces shaping microbial pangenome structure.
+
+My PhD thesis primarily focused on developing improved bioinformatics methods for analyzing microbiome sequencing data. My past research has also involved developing and applying bioinformatics approaches to ask agricultural and evolutionary genetics questions.
+
+I am also deeply interested in new ways to improve scientific publishing and data analysis reproducibility.
 
 For details you can check my **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**, **[GitHub](https://github.com/gavinmdouglas)**, and/or **[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**.
 
