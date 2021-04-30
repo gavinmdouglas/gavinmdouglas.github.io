@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-I am a recently defended PhD candidate at Dalhousie University in [Dr Morgan Langille's research lab](http://morganlangille.com). This site contains my professional information and resources that may be of interest to others, such as workshop materials.
+I am a postdoctoral researcher in [Dr. Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University. This site contains my professional information and resources that may be of interest to others, such as workshop materials.
 
 <p>
 <br />
