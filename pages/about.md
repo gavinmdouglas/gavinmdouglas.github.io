@@ -18,3 +18,4 @@ My current research focuses on leveraging metagenomics data to investigate the e
 For details you can check my **[CV]({{ BASE_PATH }}/assets/CV/Gavin_Douglas_CV.pdf)**, **[GitHub](https://github.com/gavinmdouglas)**, and/or **[Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ)**.
 
 You can contact me on **[Twitter](https://twitter.com/gavin_m_douglas)** or by email at: <img src="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" alt="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" title="gmail" width="190" height="26">
+
