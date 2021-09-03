@@ -4,8 +4,8 @@ title: Linux Intro Assignment
 ---
 
 __Author:__ Gavin Douglas  
-__First created:__ 10 May 2020
-__Last updated:__ 11 May 2020 
+__First created:__ May 10th, 2020
+__Last updated:__ September 3rd, 2021
 
 It's typical to pick up Bash and Linux commands by googling issues as they arise rather than memorizing all commands. Over time your toolkit of familiar commands will gradually grow although you may need to continue googling to figure out the syntax you need exactly.
 
@@ -62,12 +62,13 @@ with a Linux command? Hint: the command `wc -l` will tell you the number of line
 ### Problem 4: Parse and manipulate header of large compressed table
 * Take a look at the compressed table in `test_files/prob4_files/wide_table_ex.txt.gz`. Each column of this table is a different sample except for the first column, which breaks down what fictious variable each row corresponds to.  
 
-*  Parse out just the first line of the table (i.e., the header-line). Note: you will need to decompress the file or use `zcat` to decompress the file to standard output.
+* Decompress this file using `gunzip`.
 
-* Figure out how to split the header-line by tab characters (which are the delimiters of this table) with `awk`.
-* Write out the header to a new file with each delimited field written to a different line.  
-  
-* Based on this new table, confirm that there are 27 samples.  
+* `awk` is a useful command for parsing files, which among many other purposes can be used to print specific column values. Use `awk` to print out all values in column three (i.e., the third field after splitting each line of the file by tabs with `awk`).
+
+* Parse out just the first line of the table (i.e., the header-line) and write this to a new file. Hint: check out the `head` command.
+
+* Parse this new file with `awk` again and this time print out the special `awk` variable `NF`, which tells you how many fields there are. Confirm that there are 28 fields using this method.
 
 
 ### Problem 5: Bash for loop
