@@ -12,6 +12,7 @@ output:
 
 ```{r setup, include=FALSE}
 library(cowplot) # Needed to make easy multi-panel plots with ggplot2
+library(DT) # Needed to make DT example table
 library(ggbeeswarm) # Needed to make beeswarm plots
 library(ggplot2) # Work-horse plotting package
 library(kableExtra) # Needed to write out a formatted table
@@ -21,10 +22,10 @@ library(reticulate) # Needed for the Python code chunk
 theme_set(theme_classic())
 
 # This is the Python to be used (which you would only specify if using Python code chunks)
-use_python("/home/gavin/local/miniconda3/bin/python")
+use_python("/Users/Gavin/local/miniconda3/bin/python")
 
-# You would need to change this folder to be whereever you wanted the html file to be written.
-opts_knit$set(root.dir = '/home/gavin/testing/R_notebooks/')
+# You would need to change this folder to be wherever you wanted the html file to be written.
+opts_knit$set(root.dir = '/Users/Gavin/Google_Drive/professional/gavinmdouglas.github.io/assets/workshops/R_notebook/')
 ```
 
 # Introduction
@@ -35,22 +36,7 @@ You can see the R code used at each step below, but for the purposes of this exe
 
 For some reason the YAML header of this R notebook may not be visible when downloaded from this link (although it is present in the original file!). The YAML header looks like this in the original file (and is directly at the top of the notebook):
 
-![](YAML_header.png)  
-  
-You can copy and paste the YAML block below (but note that the date code is executed and so will need to be re-written by hand, as shown above):
-```
----
-title: "Example R Notebook"
-author: "Gavin Douglas"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
-output:
-  html_document:
-    code_folding: hide
-    theme: cerulean
-    toc: true
-    toc_float: true
----
-```
+![](YAML_header.png){width=250px}
 
 ## Highlight overview
 Note the table of content that floats on the side of the page while scrolling. Settings like this, the particular layout, and whether code should be hidden by default, are specified at the beginning of the R markdown file. Another really handy feature of R notebooks is that you can execute specific chunks of code at a time - **this makes them useful for standard data analysis, when you might be re-writing and troubleshooting code, and not merely as a way to summarize final code**.
@@ -63,7 +49,6 @@ The other features that will be highlighted are:
 ## Example dataset
 
 The below examples will be with the default `iris` dataset, which is Fisher's (or Anderson's) famous dataset of measurements in centimetres of 50 flowers of three different iris species. The measurements are of the length and width of the petal and sepal for each flower.
-
 
 # Visualization examples
 
@@ -78,6 +63,10 @@ hist(iris$Sepal.Length, col="grey", xlab="Sepal Length", ylab="Frequency", main=
 ```
 
 Below this R code you can keep writing, which can be helpful if you're describing results!
+
+This is what the code actually looks like in the R markdown code:
+![](basic_vis_Rmd.png)  
+
 
 ## Presenting results with diff. tabs {.tabset}
 
@@ -178,14 +167,55 @@ petal_width_boxplot <- ggplot(data=iris, aes(x=Species, y=Petal.Width, fill=Spec
 plot_grid(petal_length_boxplot, petal_width_boxplot, labels = c('a', 'b'))
 ```
 
-## Kable table
+## Tables
 
-A really easy and clean way of visualizing tabular data is to output it with `kable()`. The below table is the first ten rows of the `iris` dataset.
+### Kable table {.tabset}
 
-```{r iris_table}
+A really easy and clean way of visualizing tabular data is to output it with `kable()`. The below tables are based on the first ten rows of the `iris` dataset. A major advantage of kable tables are that you can alter the colour of cells and the colour and size of cell values. You can see some examples in the below tabs, some of which I came across in this tutorial: https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html.
+
+#### Basic
+
+```{r iris_table_basic}
 head(iris, n = 10) %>%
   kable() %>%
-  kable_styling()
+  kable_styling(full_width = FALSE)
+```
+
+#### Table with title and classic format
+
+```{r iris_table_title_classic}
+head(iris, n = 10) %>%
+  kable(caption = "Head of iris data") %>%
+  kable_classic(full_width = FALSE, html_font = "Cambria")
+```
+
+#### Fixed header position (first 100 lines)
+
+```{r iris_fixed_header, fig.height=2 }
+head(iris, n = 100) %>%
+  kable() %>%
+  kable_styling(full_width = FALSE, fixed_thead = TRUE)
+```
+
+#### Coloured cells and values based on values
+
+```{r iris_coloured_col1}
+head(iris, n = 10) %>%
+  kable() %>%
+  kable_styling(full_width = FALSE) %>%
+  column_spec(2, color = spec_color(head(iris[, 2], n = 10))) %>%
+  column_spec(1, color = "white",
+              background = spec_color(head(iris[, 1], n = 10), option = "magma", end = 0.8))
+```
+
+### DT: Interface to the JavaScript DataTables library {.tabset}
+
+Kable tables are nice, but often it's more useful to be able to (1) search a table and (2) sort a table by column names. For these purposes, the DT R package is more appropriate, which allows you to use the DataTable JavaScript library in an easy way.
+
+```{r iris_DT_basic}
+datatable(iris,
+          rownames = FALSE,
+          class = 'cell-border stripe')
 ```
 
 
@@ -200,24 +230,27 @@ As a quick example, see the below bash commands which will be used to manipulate
 As a test, a table of the first 10 rows of the iris dataframe will be written to a file called `iris_head.tsv`.
 
 ```{r write_iris_head}
-write.table(x = iris[1:10, ], file = "iris_head.tsv", quote = FALSE, row.names = FALSE, col.names = TRUE, sep="\t")
+write.table(x = iris[1:10, ], file = "/Users/Gavin/iris_head.tsv", quote = FALSE, row.names = FALSE, col.names = TRUE, sep="\t")
 ```
 
 This file can now be parsed with bash commands!
 
 For instance, this is the output of `cat`:
 ```{bash cat_ex}
-cat iris_head.tsv
+cat /Users/Gavin/iris_head.tsv
 ```
 
 And this is the output of `wc -l`:
 ```{bash wc_ex}
-wc -l iris_head.tsv
+wc -l /Users/Gavin/iris_head.tsv
 ```
+
+This is what the above code blocks looked like in the actual R markdown code:
+![](bash_example.png)
 
 The easiest way to read the Bash output back into R is to first save it to a file and then read it in. With Python this process is much easier fortunately!
    
-The below example shows first how the `iris` variable can be used in the Python chunk as a `pandas` dataframe. The resulting `pandas` series can then be used in the subsequent R chunk (where it is converted to a standard numeric vector). Note the syntax of writing `r.` and `py$` before variable names to specify whether they are from the R or Python environments, respectively.
+The below example shows first how the `iris` variable can be used in the Python chunk as a `pandas` dataframe (assuming you have the `pandas` python package installed). The resulting `pandas` series can then be used in the subsequent R chunk (where it is converted to a standard numeric vector). Note the syntax of writing `r.` and `py$` before variable names to specify whether they are from the R or Python environments, respectively.
 
 ```{python example}
 iris_means = r.iris.mean()
@@ -228,13 +261,20 @@ print(iris_means)
 print(py$iris_means)
 ```
 
+Just to be clear - this is what the code in the R markdown file looked like for the above outputs - note that one code block specifies Python while the other specifies r, but the `iris_means` object can be called by either, albeit with different syntax.
+![](python_and_r.png)
+
 Although these examples of using other languages were extremely simple, hopefully they helped you see how useful R notebooks can be for creating and sharing highly reproducible workflows.
 
 # Final thoughts
 The above quick examples are meant to show some slick features you may not be aware of in R notebooks as well as to show how useful R notebooks are in general. As mentioned at the beginning, probably what readers will find the most useful is being able to see the raw R markdown file, which you can download [here](http://www.gavindouglas.ca/assets/workshops/R_notebook/code_example.Rmd).
 
-# Session info
+# Session info {.tabset}
 The version numbers of all packages in the current environment as well as information about the R install is reported below. This is useful information to include so that others can better reproduce your work.
+
+## Hide
+
+## Show
 
 ```{r session_info}
 sessionInfo()
