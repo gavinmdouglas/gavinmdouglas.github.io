@@ -28,7 +28,7 @@ A review paper describing the diverse set of approaches that have been developed
 &nbsp;          
                    
 [**Douglas GM\*, Hansen R\*, Jones C, Dunn K, Comeau AM, Bielawski JP, Tayler R, El-Omar EM, Russell RK, Hold GL, Langille MGI, Van Limbergen J. 2018. Multi-omics Differentially Classify Disease State and Treatment Outcome in Pediatric Crohn's Disease. Microbiome 6:13 (\*joint first authors).**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0398-3)  
-<br/><br/>
+          
 <div style="padding-left: 30px;">
 A comparison of 16S rRNA gene sequencing and shotgun metagenomics sequencing of intestinal biopsy samples from pediatric Crohn's disease patients and healthy colon control patients. We assessed the performance of each datatype, collapsed to each taxonomic level and with functional annotations, for classifying patients by disease state and also by their response to treatment. We found that genera relative abundance values performed best for classifying patients by each category. We then created combined classifiers based on the top ranked features from each indivdual's datatype's model to assess which features perform best for classification overall. Although this analysis approach was useful it was noteworthy that the top features performed poorly for classification in a similar cohort. This result highlights that generalizing findings from clinical microbiome sequencing analyses across studies is challenging due to study-specific factors.
 </div>
