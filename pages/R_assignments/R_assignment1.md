@@ -82,7 +82,7 @@ The gene expression table is currently raw read counts. You can get the total re
 
 **Q7**: Plot the read counts per sample as a histogram with ```hist```. You can save this plot to a PDF by clicking "Export".
 
-You can normalize each sample's counts to be in reads per million (RPM) with the ```sweep``` command:
+You can normalize each sample's counts to be in reads per million (RPM) with the ```sweep``` command (**note that this should be run on the original table - not the table of total read counts per sample**)
 
 ```
 in_rnaseq_rpm <- sweep(in_rnaseq, 1, rowSums(in_rnaseq), '/') * 1e6
