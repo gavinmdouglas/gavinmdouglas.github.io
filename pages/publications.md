@@ -7,9 +7,10 @@ Below are four of my recent publications. You can find my complete publication l
              
               
 [**Douglas GM, Bielawski JP, Langille MGI. 2020. Re-evaluating the relationship between missing heritability and the microbiome. Microbiome 8:87.**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00839-4)  
-          
+
+<div style="padding-left: 30px;">
 _A commentary focused on the issue of whether microbiome data can help address the issue of 'missing heritability'. In contrast to several recent articles, we argue that it would be inappropriate to consider microbial genetic variation in the human microbiome as an extension of the human genome. We then describe several approaches by which microbiome data could be used (given further evaluation) as a proxy for environmental variation in genome-wide association studies._
-          
+</div>          
         
           
 [**Douglas GM, Maffei VJ, Zaneveld J, Yurgel SN, Brown JR, Taylor CM, Huttenhower C, Langille MGI. 2020. PICRUSt2 for prediction of metagenome functions. Nature Biotechnology 38:685-688.**](https://www.nature.com/articles/s41587-020-0548-6)  
