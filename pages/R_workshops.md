@@ -3,6 +3,8 @@ layout: page
 title: R workshops (August 2018)
 ---
 
+These workshops were weekly presentations and group assignments presented to biology graduate students at Dalhousie University in August 2018.
+
 ### Workshop 1  
   
 * [Lecture](http://rpubs.com/gavinmdouglas/409696)  
