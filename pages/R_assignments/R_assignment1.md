@@ -90,7 +90,7 @@ in_rnaseq_rpm <- sweep(in_rnaseq, 1, rowSums(in_rnaseq), '/') * 1e6
 
 The arguments of this function used above are: (1) the gene expression table, (2) the margin to sweep over (1 means rows whereas 2 would mean columns), (3) summary statistic to be used (which is the sum of each row), and the function used (which is to divide). In total this means to divide each row by the sum of that row! We then multiplied this result by 1 million (1e6).
 
-**Q8**: Which sample has the highest expression of BRINP3?
+**Q8**: Which sample has the highest expression of BRINP3 based on this normalized table?
 
 APOA1 and DUOX2 are two genes that are known to be negatively associated in the ileum of Crohn's disease patients. Make a scatterplot the normalized expression levels of these 2 genes with ```plot```.
 
