@@ -42,9 +42,14 @@ For some reason the YAML header of this R notebook may not be visible when downl
 Note the table of content that floats on the side of the page while scrolling. Settings like this, the particular layout, and whether code should be hidden by default, are specified at the beginning of the R markdown file. Another really handy feature of R notebooks is that you can execute specific chunks of code at a time - **this makes them useful for standard data analysis, when you might be re-writing and troubleshooting code, and not merely as a way to summarize final code**.
 
 The other features that will be highlighted are:  
+
 * Using tabs to present related data  
+
 * Printing pretty tables  
+
 * Using other languages besides R  
+
+* Programmatically creating tabs in R notebooks
 
 ## Example dataset
 
