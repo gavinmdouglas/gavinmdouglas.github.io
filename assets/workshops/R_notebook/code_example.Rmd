@@ -266,6 +266,25 @@ Just to be clear - this is what the code in the R markdown file looked like for 
 
 Although these examples of using other languages were extremely simple, hopefully they helped you see how useful R notebooks can be for creating and sharing highly reproducible workflows.
 
+## Programmatically create notebook tabs
+
+Often you want to show plots, tables, or other results for many variables in different tabs. However, it can be tedious (and prone to typos) to make many tabs by copy-and-pasting. To get around this problem you can use the _results='asis'_ option in a code block to specify that all text output should be treated as markdown code.
+
+For example this code block (and markdown header) produces the tabbed output below.
+
+![](automating_tabs.png)
+
+### Example automatic tabs {.tabset}
+
+```{r tab_looping, results='asis', echo=FALSE}
+for (trait in c("Sepal.Length", "Sepal.Width", "Petal.Length", "Petal.Width")) {
+  cat('####', trait, ' \n')
+  hist(iris[, trait], main = "", xlab = trait)
+  cat('\n\n')
+}
+```
+
+
 # Final thoughts
 The above quick examples are meant to show some slick features you may not be aware of in R notebooks as well as to show how useful R notebooks are in general. As mentioned at the beginning, probably what readers will find the most useful is being able to see the raw R markdown file, which you can download [here](http://www.gavindouglas.ca/assets/workshops/R_notebook/code_example.Rmd).
 
