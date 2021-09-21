@@ -55,7 +55,7 @@ The other features that will be highlighted are:
 
 The below examples will be with the default `iris` dataset, which is Fisher's (or Anderson's) famous dataset of measurements in centimetres of 50 flowers of three different iris species. The measurements are of the length and width of the petal and sepal for each flower.
 
-# Visualization examples
+# Highlighted examples
 
 ## Super basic visualization
 
