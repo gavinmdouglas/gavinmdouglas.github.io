@@ -25,7 +25,7 @@ First, we'll make basic histograms to take a look at the overall distribution of
 par(mfrow=c(1,2))
 ```
 
-**Q1:** Plot histograms of concentration and reaction rates respectively as two panels in this plot. Change the bar colour to grey, remove the title, and set the x-axis label.
+**Q1:** Plot histograms of concentration and reaction rates respectively as two panels in this plot. Remove the title, and set the x-axis label.
 
 When making a histogram note that you can change the number of bins by changing the ```breaks``` option.
 
