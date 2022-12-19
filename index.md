@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-I am a postdoctoral researcher in [Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University. This site contains my professional information and resources that may be of interest to others, such as workshop materials.
+Hello! I am a postdoctoral researcher in [Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University. This site contains my professional and contact information. There are also teaching materials available from past workshops I have taught.
 
 <p>
 <br />
