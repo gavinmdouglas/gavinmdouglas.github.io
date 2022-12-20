@@ -3,7 +3,7 @@ layout: page
 title: Workshops
 ---
 
-Resources are available on this site for several tutorials and workshops that I have developed.
+Please see below for several tutorials and workshops that I have developed over the years.
 
 These teaching materials are split into four categories:
 

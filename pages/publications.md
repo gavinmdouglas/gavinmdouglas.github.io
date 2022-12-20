@@ -3,9 +3,9 @@ layout: page
 title: Selected Publications
 ---
 
-Below are four of my recent publications. You can find my complete publication list on my [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ).   
-    
-      
+You can find a few of my recent publications below. My complete publication list is on my [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ).
+
+
 [**Douglas GM, Bielawski JP, Langille MGI. 2020. Re-evaluating the relationship between missing heritability and the microbiome. Microbiome 8:87.**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00839-4)  
         
 <div style="padding-left: 30px;">
@@ -26,11 +26,4 @@ An updated method for metagenome prediction based on amplicon sequences. We desc
 A review paper describing the diverse set of approaches that have been developed for identifying horizontal gene transfer events in metagenomes and in isolate genomes. We contrast these approaches and describe particular cases where they have been applied. We emphasize the challenges for detecting horizontal gene transfer specifically in metagenomes data and highlight bioinformatics approaches developed to address these challenges. We close by describing several new technological advances that will likely greatly improve the performance of most bioinformatics approaches that we describe.
 </div>
 &nbsp;          
-                   
-[**Douglas GM\*, Hansen R\*, Jones C, Dunn K, Comeau AM, Bielawski JP, Tayler R, El-Omar EM, Russell RK, Hold GL, Langille MGI, Van Limbergen J. 2018. Multi-omics Differentially Classify Disease State and Treatment Outcome in Pediatric Crohn's Disease. Microbiome 6:13 (\*joint first authors).**](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0398-3)  
-          
-<div style="padding-left: 30px;">
-A comparison of 16S rRNA gene sequencing and shotgun metagenomics sequencing of intestinal biopsy samples from pediatric Crohn's disease patients and healthy colon control patients. We assessed the performance of each datatype, collapsed to each taxonomic level and with functional annotations, for classifying patients by disease state and also by their response to treatment. We found that genera relative abundance values performed best for classifying patients by each category. We then created combined classifiers based on the top ranked features from each indivdual's datatype's model to assess which features perform best for classification overall. Although this analysis approach was useful it was noteworthy that the top features performed poorly for classification in a similar cohort. This result highlights that generalizing findings from clinical microbiome sequencing analyses across studies is challenging due to study-specific factors.
-</div>
-               
-            
+                              
