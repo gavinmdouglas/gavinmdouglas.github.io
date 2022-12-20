@@ -13,7 +13,7 @@ title: About
 
 I am a postdoctoral researcher in [Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University (Montréal, Québec, Canada). Prior to starting this position I was a PhD student in Microbiology and Immunology in [Morgan Langille's research lab](http://morganlangille.com) at Dalhousie University (Halifax, Nova Scotia, Canada).
 
-In addition to _doing_ research, I am also very interested in the steps _downstream_ of research. Specifically, I am deeply interested in science publishing and science policy more generally. I am enjoying exploring this space as the 2022-2023 Co-President of [Science & Policy Exchange](https://www.sp-exchange.ca) (a volunteer-run non-profit headquartered in Montréal).
+In addition to doing research, I am also very interested in the steps downstream of research. Specifically, I am deeply interested in science publishing and science policy more generally. I am enjoying exploring this space as the 2022-2023 Co-President of [Science & Policy Exchange](https://www.sp-exchange.ca) (a volunteer-run non-profit headquartered in Montréal).
 
 My current research focuses on investigating the evolutionary forces shaping microbial pangenome structure. I am using several bioinformatics approaches to investigate this general question, including shotgun metagenomics sequencing data from the honey bee gut microbiome.
 
