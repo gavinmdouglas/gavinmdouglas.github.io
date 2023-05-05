@@ -11,8 +11,10 @@ title: Microbiome data analysis tutorials and workflows
     
     * [Shotgun metagenomics tutorial](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2018-Metagenomic-Taxonomic-and-Functional-Composition-Tutorial) (link to Microbiome Helper)
    
-* Workflows for processing microbial amplicon sequencing data (all three point to Microbiome Helper):
+* Workflows for processing microbial amplicon sequencing data (all external links):
     * [Workflow dependent largely on QIIME 2](https://github.com/LangilleLab/microbiome_helper/wiki/Amplicon-SOP-v2-(qiime2-2020.2)) - Recommended pipeline (check Microbiome Helper for latest version)  
+
+    * [Workflow for comparing the outputs of different taxa classifiers](https://github.com/gavinmdouglas/taxa_sanity_check)
 
     * [DADA2 custom wrapper script workflow](https://github.com/LangilleLab/microbiome_helper/wiki/DADA2-16S-Chemerin-Tutorial) - July 2018 
 
