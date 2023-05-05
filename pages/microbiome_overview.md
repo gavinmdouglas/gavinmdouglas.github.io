@@ -14,7 +14,7 @@ title: Microbiome data analysis tutorials and workflows
 * Workflows for processing microbial amplicon sequencing data (all external links):
     * [Workflow dependent largely on QIIME 2](https://github.com/LangilleLab/microbiome_helper/wiki/Amplicon-SOP-v2-(qiime2-2020.2)) - Recommended pipeline (check Microbiome Helper for latest version)  
 
-    * [Workflow for comparing the outputs of different taxa classifiers](https://github.com/gavinmdouglas/taxa_sanity_check)
+    * [Workflow for comparing the outputs of different taxa classifiers](https://github.com/gavinmdouglas/taxa_sanity_check) - April 2020
 
     * [DADA2 custom wrapper script workflow](https://github.com/LangilleLab/microbiome_helper/wiki/DADA2-16S-Chemerin-Tutorial) - July 2018 
 
