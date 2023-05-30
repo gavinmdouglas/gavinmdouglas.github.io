@@ -32,7 +32,7 @@ My most recent preprint and two most recent publications are found below. See [G
 <div class="container">
     <div class="row-fluid">
 
-		<br/><br/>
+		<br/>
 
     	<div class="span2">
 
@@ -55,7 +55,7 @@ My most recent preprint and two most recent publications are found below. See [G
 <div class="container">
     <div class="row-fluid">
 
-		<br/><br/>
+		<br/>
 
         <div class="span5">
         	<img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS Fig1">
