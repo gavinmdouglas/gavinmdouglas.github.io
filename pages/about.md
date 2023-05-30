@@ -13,8 +13,6 @@ title: About
 
         <div class="span8">
 
-			<br/>
-
 			I am a postdoctoral researcher in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University (Montréal, Québec, Canada). Prior to starting this position I was a PhD student in Microbiology and Immunology in <a href="http://morganlangille.com">Morgan Langille's research lab</a> at Dalhousie University (Halifax, Nova Scotia, Canada).
 <br/><br/>
 			In addition to doing research, I am also very interested in the steps downstream of research. Specifically, I am deeply interested in science publishing and science policy. I am enjoying exploring this space as the 2022-2023 Co-President of <a href="https://www.sp-exchange.ca">Science & Policy Exchange</a> (a volunteer-run, non-profit, headquartered in Montréal).
