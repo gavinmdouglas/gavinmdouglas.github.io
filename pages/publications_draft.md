@@ -6,6 +6,18 @@ title: Recent publications
 My most recent preprint and publications are found below! See [Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ) for more.
 
 <div class="container">
+    <div class="row text-center">
+      <div class="col-6 my-auto">
+        <h1 class="text-primary font-tertiary">FuncDiv is a tool for efficiently computing contributional diversity (the alpha diversity of taxa that encode specific functions) metrics from microbiome datasets. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011">Paper</a>. <a href="https://github.com/gavinmdouglas/FuncDiv">GitHub</a>.</h1>
+      </div>
+      <div class="col-6 mobile-img">
+        <img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" class="img-fluid" alt="FuncDiv Fig1">
+      </div>
+
+    </div>
+  </div>
+
+<div class="container">
     <div class="row-fluid">
         FuncDiv is a tool for efficiently computing contributional diversity (the alpha diversity of taxa that encode specific functions) metrics from microbiome datasets. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011">Paper</a>. <a href="https://github.com/gavinmdouglas/FuncDiv">GitHub</a>.
         <div class="span6">
