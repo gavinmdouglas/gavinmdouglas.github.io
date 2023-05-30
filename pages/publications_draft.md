@@ -7,6 +7,8 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 
 ---
 
+<hr/>
+
 <div class="container">
     <div class="row-fluid">
 		<br/>
@@ -27,6 +29,8 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 
 </div>
 
+<hr/>
+
 <div class="container">
     <div class="row-fluid">
 
@@ -46,6 +50,8 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 
     </div>
 </div>
+
+<hr/>
 
 <div class="container">
     <div class="row-fluid">
