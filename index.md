@@ -3,19 +3,27 @@ layout: page
 title: Welcome
 ---
 
-Hello! I am a postdoctoral researcher in [Jesse Shapiro's lab](http://www.shapirolab.ca/) at McGill University. This site contains my professional and contact information. There are also teaching materials available from past workshops I have taught.
+<div class="container">
+    <div class="row-fluid">
+		<br/>
 
-<p>
-<br />
-</p>
+        <div class="span7">
+        	<img src="/assets/pictures/personal/newgrange.jpg" alt="Headshot" height="800" width="133">
+        </div>
+
+        <div class="span4">
+
+			Hello! I am a postdoctoral researcher in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University. This site contains my professional and contact information. There are also teaching materials available from past workshops I have taught.
+
+        </div>
+
+    </div>
+
+</div>
 
 
-<td class="left">
-        <img src="{{ BASE_PATH }}/assets/pictures/personal/newgrange.jpg" alt="assets/pictures/personal/newgrange.jpg" title="newgrange" align="middle" height="1200" width="600">
-</td>
 
-<p>
-<br />
-</p>
+---
+
+<br/>
 Photo is of the Newgrange passage tomb in Ireland. This website was created with [Karl Broman's helpful tutorial and css code](https://kbroman.org/simple_site/pages/independent_site.html).
-
