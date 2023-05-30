@@ -25,9 +25,6 @@ My most recent preprint and two most recent publications are found below. See [G
 
     </div>
 
-    <br/>
-    <br/>
-
 </div>
 
 ---
@@ -50,9 +47,6 @@ My most recent preprint and two most recent publications are found below. See [G
         </div>
 
     </div>
-
-    <br/>
-    <br/>
 
 </div>
 
