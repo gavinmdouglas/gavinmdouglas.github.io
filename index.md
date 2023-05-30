@@ -7,8 +7,8 @@ title: Welcome
     <div class="row-fluid">
 		<br/>
 
-        <div class="span7">
-        	<img src="/assets/pictures/personal/newgrange.jpg" alt="Headshot" height="800" width="133">
+        <div class="span5">
+        	<img src="/assets/pictures/personal/newgrange.jpg" alt="Headshot" height="133" width="800">
         </div>
 
         <div class="span4">

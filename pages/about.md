@@ -7,7 +7,7 @@ title: About
     <div class="row-fluid">
 		<br/>
 
-        <div class="span3">
+        <div class="span2">
         	<img src="/assets/pictures/personal/2020_04_17_headshot_lower_qual.jpg" alt="Headshot" height="236" width="200">
         </div>
 
