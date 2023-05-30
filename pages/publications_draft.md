@@ -6,7 +6,7 @@ title: Recent publications
 My most recent preprint and publications are found below! See [Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ) for the full list.
 
 ---
-
+---
 <hr/>
 
 <div class="container">
