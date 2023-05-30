@@ -25,6 +25,6 @@ title: Welcome
 </div>
 
 
-<br/>
+<p><br/></p>
 ---
  <font size="-1">Photo is of the Newgrange passage tomb in Ireland. This website was created with <a href="https://kbroman.org/simple_site/pages/independent_site.html">Karl Broman's helpful tutorial and css code</a>.</font>
