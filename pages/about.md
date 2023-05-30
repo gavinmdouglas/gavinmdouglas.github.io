@@ -5,7 +5,6 @@ title: About
 
 <div class="container">
     <div class="row-fluid">
-		<br/>
 
         <div class="span2">
         	<img src="/assets/pictures/personal/2020_04_17_headshot_lower_qual.jpg" alt="Headshot" height="236" width="200">
