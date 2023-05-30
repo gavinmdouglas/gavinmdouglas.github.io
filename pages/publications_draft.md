@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>Recent publications</title>
+
+  <style>
+    .container {
+      width: 500px;
+    }
+
+    .image_left {
+      float: left;
+      margin-right: 10px;
+    }
+
+    .image_right {
+      float: right;
+      margin-left: 10px;
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <div class="container">
+    <img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" alt="FuncDiv_Fig1" class="image_right">
+
+    <p>FuncDiv is a tool for efficiently computing contributional diversity (alpha diversity of taxa that encode specific functions) metrics from microbiome datasets. <a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011">Paper.</a>  <a href="https://github.com/gavinmdouglas/FuncDiv">GitHub.</a> </p>
+  </div>
+
+  <div class="container">
+    <img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS_Fig1" class="image_left">
+
+    <p>Phylogenetic Organization of Metagenomic Signals (POMS) is a tool for identifying putatively adaptive functions encoded by independent taxonomic lineages in a microbiome community. <a href="https://academic.oup.com/bioinformatics/article/38/22/5055/6731923">Paper.</a> <a href="https://github.com/gavinmdouglas/POMS">GitHub.</a> </p>
+  </div>
+
+</body>
+</html>
