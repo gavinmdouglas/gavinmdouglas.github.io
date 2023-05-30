@@ -11,11 +11,11 @@ My most recent preprint and two most recent publications are found below. See [G
     <div class="row-fluid">
 		<br/>
 
-        <div class="span3">
+        <div class="span5">
         	<img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1">
         </div>
 
-        <div class="span4">
+        <div class="span2">
 
         	<br/><br/><br/><br/>
 
@@ -42,7 +42,7 @@ My most recent preprint and two most recent publications are found below. See [G
 			<a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011">Paper</a>. <a href="https://github.com/gavinmdouglas/FuncDiv">GitHub</a>.
         </div>
 
-        <div class="span4">
+        <div class="span5">
         	<img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" alt="FuncDiv Fig1">
         </div>
 
@@ -57,7 +57,7 @@ My most recent preprint and two most recent publications are found below. See [G
 
 		<br/><br/>
 
-        <div class="span4">
+        <div class="span5">
         	<img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS Fig1">
         </div>
 
