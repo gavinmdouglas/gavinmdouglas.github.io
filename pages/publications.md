@@ -12,7 +12,7 @@ My most recent preprint and two most recent publications are found below. See [G
 		<br/>
 
         <div class="span5">
-        	<img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1">
+        	<a href="https://www.biorxiv.org/content/10.1101/2023.05.17.541134v1"><img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1"></a>
         </div>
 
         <div class="span2">
@@ -43,7 +43,7 @@ My most recent preprint and two most recent publications are found below. See [G
         </div>
 
         <div class="span5">
-        	<img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" alt="FuncDiv Fig1">
+        	<a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011"><img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" alt="FuncDiv Fig1"></a>
         </div>
 
     </div>
@@ -58,7 +58,7 @@ My most recent preprint and two most recent publications are found below. See [G
 		<br/>
 
         <div class="span5">
-        	<img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS Fig1">
+        	<a href="https://academic.oup.com/bioinformatics/article/38/22/5055/6731923"><img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS Fig1"></a>
         </div>
 
         <div class="span2">
