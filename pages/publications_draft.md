@@ -9,7 +9,7 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 
 <div class="container">
     <div class="row-fluid">
-		<br/><br/>
+		<br/>
 
         <div class="span6">
         	<img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1">
@@ -20,16 +20,19 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 			<a href="https://www.biorxiv.org/content/10.1101/2023.05.17.541134v1">Preprint</a>.
         </div>
 
-		<br/><br/><br/><br/><br/><br/>
-
     </div>
+
+    <br/>
+    <br/>
+
 </div>
 
 <div class="container">
     <div class="row-fluid">
 
+		<br/><br/>
+
     	<div class="span2">
-			<br/><br/><br/>
 			Douglas <i>et al.</i> 2023. Efficient computation of contributional diversity metrics from microbiome data with <i>FuncDiv</i>. <i>Bioinformatics</i>.<br/>
 			<a href="https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011">Paper</a>. <a href="https://github.com/gavinmdouglas/FuncDiv">GitHub</a>.
         </div>
@@ -38,7 +41,8 @@ My most recent preprint and publications are found below! See [Google Scholar](h
         	<img src="/assets/pictures/manuscript_images/FuncDiv_Fig1.jpeg" alt="FuncDiv Fig1">
         </div>
 
-		<br/><br/><br/><br/><br/><br/>
+		<br/>
+		<br/>
 
     </div>
 </div>
@@ -46,12 +50,13 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 <div class="container">
     <div class="row-fluid">
 
+		<br/><br/>
+
         <div class="span6">
         	<img src="/assets/pictures/manuscript_images/POMS_Fig1.jpeg" alt="POMS Fig1">
         </div>
 
         <div class="span2">
-            <br/><br/><br/>
 			Douglas <i>et al.</i> 2022. Integrating phylogenetic and functional data in microbiome studies. <i>Bioinformatics</i>.<br/>
 			<a href="https://academic.oup.com/bioinformatics/article/38/22/5055/6731923">Paper</a>. <a href="https://github.com/gavinmdouglas/POMS">GitHub</a>.
 			<br/><br/>
@@ -59,4 +64,3 @@ My most recent preprint and publications are found below! See [Google Scholar](h
 
     </div>
 </div>
-
