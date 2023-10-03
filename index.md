@@ -16,7 +16,7 @@ title: Welcome
 
 			Hello! I am a postdoctoral researcher in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University.<br/><br/>
 
-			This site contains my professional and contact information. There are also teaching materials available from past workshops I have taught.
+			This site summarizes my professional background and contact information. There are also teaching materials available from past workshops I have taught.
 
         </div>
 
