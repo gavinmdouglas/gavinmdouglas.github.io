@@ -15,7 +15,7 @@ Three of my recent publications are found below. Please see [Google Scholar](htt
 
         	<br/><br/><br/><br/>
 
-			Douglas and Shapiro. 2024. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. <i>bioRxiv</i>.<br/>
+			Douglas and Shapiro. 2024. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. <i>Nature Ecology and Evolution</i>.<br/>
 			<a href="https://www.nature.com/articles/s41559-023-02268-6">Paper</a>.
         </div>
 
