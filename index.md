@@ -14,7 +14,7 @@ title: Welcome
 
 			<br/><br/>
 
-			Hello! I am a postdoctoral researcher in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University.<br/><br/>
+			Hello! I am a postdoctoral researcher in <a href="https://louismariebobay.wixsite.com/bobaylab">Louis-Marie Bobay's lab</a> at North Carolina State University.<br/><br/>
 
 			This site summarizes my professional background and contact information. There are also teaching materials available from past workshops I have taught.
 
@@ -27,4 +27,4 @@ title: Welcome
 
 <p><br/></p>
 ---
- <font size="-1">Photo is of the Newgrange passage tomb in Ireland. This website was created with <a href="https://kbroman.org/simple_site/pages/independent_site.html">Karl Broman's helpful tutorial and css code</a>.</font>
+ <font size="-2">Photo is of the Newgrange passage tomb in Ireland. This website was created with <a href="https://kbroman.org/simple_site/pages/independent_site.html">Karl Broman's helpful tutorial and css code</a>.</font>

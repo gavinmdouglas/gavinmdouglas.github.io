@@ -12,9 +12,9 @@ title: About
 
         <div class="span8">
 
-			I am a postdoctoral researcher in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University (Montréal, Québec, Canada). Prior to starting this position I was a PhD student in Microbiology and Immunology in <a href="http://morganlangille.com">Morgan Langille's research lab</a> at Dalhousie University (Halifax, Nova Scotia, Canada).
+			I am a postdoctoral researcher in <a href="https://louismariebobay.wixsite.com/bobaylab">Louis-Marie Bobay's lab</a> at North Carolina State University (Raleigh, North Carolina, USA). My previous postdoctoral work was in <a href="http://www.shapirolab.ca">Jesse Shapiro's lab</a> at McGill University (Montréal, Québec, Canada). I did my PhD in Microbiology and Immunology in <a href="http://morganlangille.com">Morgan Langille's research lab</a> at Dalhousie University (Halifax, Nova Scotia, Canada).
 <br/><br/>
-			In addition to doing research, I am also very interested in the steps downstream of research. Specifically, I am deeply interested in science publishing and science policy. I am enjoying exploring this space as the 2022-2023 Co-President of <a href="https://www.sp-exchange.ca">Science & Policy Exchange</a> (a volunteer-run, non-profit, headquartered in Montréal).
+			In addition to doing research, I am also very interested in the steps downstream of research. Specifically, I am deeply interested in science publishing reform, which I contribute to as a Managing Board Member <a href="https://genomics.peercommunityin.org/">Peer Community in Genomics</a>. I also enjoy exploring the science policy space, which I did most prominently as the 2022-2023 Co-President of <a href="https://www.sp-exchange.ca">Science & Policy Exchange</a> (a volunteer-run, non-profit, headquartered in Montréal).
 <br/><br/>
 			My current research focuses on investigating the evolutionary forces shaping microbial pangenome structure. I am using several bioinformatics approaches to investigate this general question, including shotgun metagenomics sequencing data from the honey bee gut microbiome.
 <br/><br/>
