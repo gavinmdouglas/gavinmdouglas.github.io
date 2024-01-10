@@ -3,7 +3,7 @@ layout: page
 title: Recent publications
 ---
 
-My most recent preprint and two most recent publications are found below. See [Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ) for the full list.
+Three of my recent publications are found below. Please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ) for the full list.
 
 ---
 
@@ -15,12 +15,12 @@ My most recent preprint and two most recent publications are found below. See [G
 
         	<br/><br/><br/><br/>
 
-			Douglas <i>et al.</i> 2023. Pseudogenes as a neutral reference for detecting selection in prokaryotic pangenomes. <i>bioRxiv</i>.<br/>
-			<a href="https://www.biorxiv.org/content/10.1101/2023.05.17.541134v1">Preprint</a>.
+			Douglas and Shapiro. 2024. Pseudogenes act as a neutral reference for detecting selection in prokaryotic pangenomes. <i>bioRxiv</i>.<br/>
+			<a href="https://www.nature.com/articles/s41559-023-02268-6">Paper</a>.
         </div>
 
         <div class="span5">
-        	<a href="https://www.biorxiv.org/content/10.1101/2023.05.17.541134v1"><img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1"></a>
+        	<a href="https://www.nature.com/articles/s41559-023-02268-6"><img src="/assets/pictures/manuscript_images/pseudogene_Fig1.jpg" alt="Pseudogene Fig1"></a>
         </div>
 
     </div>
