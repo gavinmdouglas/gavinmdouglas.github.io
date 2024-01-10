@@ -22,7 +22,7 @@ title: About
 <br/><br/>
 			My past research also involved developing and applying bioinformatics approaches to investigate agricultural and evolutionary genetics questions. Please see my <b><a href="http://www.gavindouglas.ca/pages/cv.html">CV</a></b>, <b><a href="https://github.com/gavinmdouglas">GitHub</a></b> profile, and/or my <b><a href="https://scholar.google.ca/citations?hl=en&user=EhhXPUkAAAAJ">Google Scholar</a></b> page for further details.
 <br/><br/>
-			Please feel free to contact me on <b><a href="https://twitter.com/gavin_m_douglas">Twitter</a></b>, <b><a href="https://fediscience.org/@gmdouglas">Mastodon</a></b>, or by email at: <img src="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" alt="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" title="gmail" width="190" height="26">
+			Please feel free to contact me on <b><a href="https://twitter.com/gavin_m_douglas">Twitter</a></b>, <b><a href="https://bsky.app/profile/gmdouglas.bsky.social">Bluesky</a></b>, <b><a href="https://fediscience.org/@gmdouglas">Mastodon</a></b>, or by email at: <img src="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" alt="{{ BASE_PATH }}/assets/gmail_screenshot.jpg" title="gmail" width="190" height="26">
         </div>
 
     </div>
