@@ -18,8 +18,6 @@ title: Welcome
             
             I will be starting <a href="https://douglaslab.ca">my own lab at the University of New Brunswick</a> (Fredericton campus) in July 2025! Please feel free to reach out if you wouldare potentially interested in joining or collaborating.
                                                 
-			This site summarizes my professional background and contact information. There are also teaching materials available from past workshops I have taught.
-
         </div>
 
     </div>
