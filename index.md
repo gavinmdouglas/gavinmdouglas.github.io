@@ -16,8 +16,8 @@ title: Welcome
 
 			I am a postdoctoral researcher in <a href="https://louismariebobay.wixsite.com/bobaylab">Louis-Marie Bobay's lab</a> at North Carolina State University.<br/><br/>
             
-            I will be starting my own lab at the University of New Brunswick (Fredericton campus) in July 2025! [Lab website](https://douglaslab.ca)
-
+            I will be starting <a href="https://douglaslab.ca">my own lab at the University of New Brunswick</a> (Fredericton campus) in July 2025! Please feel free to reach out if you wouldare potentially interested in joining or collaborating.
+                          
 			This site summarizes my professional background and contact information. There are also teaching materials available from past workshops I have taught.
 
         </div>
